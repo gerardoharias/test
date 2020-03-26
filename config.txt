@@ -1,1 +1,2 @@
 archivo de configuración
+conexion_bd=mysql
